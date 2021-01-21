@@ -10,6 +10,7 @@ const inputDuration = document.querySelector('.form_input--duration');
 const inputCadence = document.querySelector('form_input--cadence');
 const inputElevation = document.querySelector('.form_input--elevation');
 
+/*
 if (navigator.geolocation) {
     navigator.geolocation.getCurrentPosition(function(position){
         console.log(position);
@@ -35,4 +36,4 @@ if (navigator.geolocation) {
         alert('Could not get your position');
     })
 }
-
+*/
